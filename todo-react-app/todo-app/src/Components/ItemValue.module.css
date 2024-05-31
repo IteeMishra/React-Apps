@@ -1,1 +1,21 @@
 
+.inner{
+    width: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.input{
+    height:40px;
+    min-width: 150px;
+}
+.top{
+    margin-bottom: 30px;
+}
+
+
+.button{
+    margin-top:10px;
+    min-width: 100px;
+   margin-left: 50px;
+}
