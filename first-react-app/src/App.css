@@ -1,0 +1,16 @@
+
+.Calculator{
+
+  width: 400px;
+  border: 3px solid rgb(119, 114, 114);
+  margin-top: 40px;
+  margin-left: 10%;
+}
+
+
+
+.ButtonList{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}

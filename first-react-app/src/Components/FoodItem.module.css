@@ -1,0 +1,14 @@
+.listItem{
+    color:rgb(3, 3, 3);
+    font-weight: 600;
+margin: 15px;
+list-style-type: none;
+padding: 10px;
+background-color: rgb(179, 203, 195);
+border-radius: 10px;
+    
+}
+.button{
+    float:right;
+   
+}
